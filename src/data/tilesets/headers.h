@@ -839,6 +839,61 @@ const struct Tileset gTileset_MysteryEventsHouse =
     .callback = NULL,
 };
 
+const struct Tileset gTileset_SeviiIslands123 = 
+{
+	.isCompressed = TRUE,
+	.isSecondary = TRUE,
+	.tiles = gTilesetTiles_SeviiIslands123,
+	.palettes = gTilesetPalettes_SeviiIslands123,
+	.metatiles = gMetatiles_SeviiIslands123,
+	.metatileAttributes = gMetatileAttributes_SeviiIslands123,
+	.callback = 0x0
+};
+
+const struct Tileset gTileset_SeviiIslands45 = 
+{
+	.isCompressed = TRUE,
+	.isSecondary = TRUE,
+	.tiles = gTilesetTiles_SeviiIslands45,
+	.palettes = gTilesetPalettes_SeviiIslands45,
+	.metatiles = gMetatiles_SeviiIslands45,
+	.metatileAttributes = gMetatileAttributes_SeviiIslands45,
+	.callback = 0x0
+};
+
+const struct Tileset gTileset_SeviiIslands67 = 
+{
+	.isCompressed = TRUE,
+	.isSecondary = TRUE,
+	.tiles = gTilesetTiles_SeviiIslands67,
+	.palettes = gTilesetPalettes_SeviiIslands67,
+	.metatiles = gMetatiles_SeviiIslands67,
+	.metatileAttributes = gMetatileAttributes_SeviiIslands67,
+	.callback = InitTilesetAnim_SeviiIslands67
+};
+
+const struct Tileset gTileset_SeviiIslands5 = 
+{
+	.isCompressed = TRUE,
+	.isSecondary = TRUE,
+	.tiles = gTilesetTiles_SeviiIslands5,
+	.palettes = gTilesetPalettes_SeviiIslands5,
+	.metatiles = gMetatiles_SeviiIslands5,
+	.metatileAttributes = gMetatileAttributes_SeviiIslands5,
+	.callback = InitTilesetAnim_SeviiIslands5
+};
+
+const struct Tileset gTileset_SeviiIslands6 = 
+{
+	.isCompressed = TRUE,
+	.isSecondary = TRUE,
+	.tiles = gTilesetTiles_SeviiIslands6,
+	.palettes = gTilesetPalettes_SeviiIslands6,
+	.metatiles = gMetatiles_SeviiIslands6,
+	.metatileAttributes = gMetatileAttributes_SeviiIslands6,
+	.callback = NULL
+};
+
 const struct Tileset gTileset_UnionRoom =
 {
     .isCompressed = TRUE,

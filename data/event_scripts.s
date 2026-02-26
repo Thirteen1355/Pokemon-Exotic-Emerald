@@ -1151,3 +1151,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/NavelRock_Unown_Room_2/scripts.inc"
 
 	.include "data/scripts/test.inc"
+
+	.include "data/maps/OneIsland/scripts.inc"

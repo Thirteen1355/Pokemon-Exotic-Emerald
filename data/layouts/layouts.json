@@ -4640,6 +4640,16 @@
       "secondary_tileset": "gTileset_NavelRock",
       "border_filepath": "data/layouts/NavelRock_Unown_Room_2/border.bin",
       "blockdata_filepath": "data/layouts/NavelRock_Unown_Room_2/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND",
+      "name": "OneIsland_Layout",
+      "width": 24,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavaridge",
+      "border_filepath": "data/layouts/OneIsland/border.bin",
+      "blockdata_filepath": "data/layouts/OneIsland/map.bin"
     }
   ]
 }

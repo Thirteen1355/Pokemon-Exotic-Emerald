@@ -205,5 +205,20 @@ const u16 gMetatileAttributes_BattleTent[] = INCBIN_U16("data/tilesets/secondary
 const u16 gMetatiles_MysteryEventsHouse[] = INCBIN_U16("data/tilesets/secondary/mystery_events_house/metatiles.bin");
 const u16 gMetatileAttributes_MysteryEventsHouse[] = INCBIN_U16("data/tilesets/secondary/mystery_events_house/metatile_attributes.bin");
 
+const u16 gMetatiles_SeviiIslands123[] = INCBIN_U16("data/tilesets/secondary/sevii_islands_123/metatiles.bin");
+const u32 gMetatileAttributes_SeviiIslands123[] = INCBIN_U32("data/tilesets/secondary/sevii_islands_123/metatile_attributes.bin");
+
+const u16 gMetatiles_SeviiIslands45[] = INCBIN_U16("data/tilesets/secondary/sevii_islands_45/metatiles.bin");
+const u32 gMetatileAttributes_SeviiIslands45[] = INCBIN_U32("data/tilesets/secondary/sevii_islands_45/metatile_attributes.bin");
+
+const u16 gMetatiles_SeviiIslands67[] = INCBIN_U16("data/tilesets/secondary/sevii_islands_67/metatiles.bin");
+const u32 gMetatileAttributes_SeviiIslands67[] = INCBIN_U32("data/tilesets/secondary/sevii_islands_67/metatile_attributes.bin");
+
+const u16 gMetatiles_SeviiIslands5[] = INCBIN_U16("data/tilesets/secondary/seviiislands5/metatiles.bin");
+const u32 gMetatileAttributes_SeviiIslands5[] = INCBIN_U32("data/tilesets/secondary/seviiislands5/metatile_attributes.bin");
+
+const u16 gMetatiles_SeviiIslands6[] = INCBIN_U16("data/tilesets/secondary/seviiislands6/metatiles.bin");
+const u32 gMetatileAttributes_SeviiIslands6[] = INCBIN_U32("data/tilesets/secondary/seviiislands6/metatile_attributes.bin");
+
 const u16 gMetatiles_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/union_room/metatiles.bin");
 const u16 gMetatileAttributes_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/union_room/metatile_attributes.bin");

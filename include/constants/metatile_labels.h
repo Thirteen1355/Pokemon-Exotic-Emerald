@@ -787,6 +787,77 @@
 #define METATILE_Underwater_FloorShadow  0x228
 #define METATILE_Underwater_RockWall     0x21E
 
+// gTileset_SeviiIslands123
+#define METATILE_SeviiIslands123_Door                0x297
+#define METATILE_SeviiIslands123_GameCornerDoor      0x29B
+#define METATILE_SeviiIslands123_OneIsland_AshGrass  0x3DA
+#define METATILE_SeviiIslands123_OneIsland_Grass     0x3EC
+#define METATILE_SeviiIslands123_OneIsland_Mowed     0x3ED
+#define METATILE_SeviiIslands123_PokeCenterDoor      0x2EB
+
+// gTileset_SeviiIslands45
+#define METATILE_SeviiIslands45_DayCareDoor                   0x2B9
+#define METATILE_SeviiIslands45_Door                          0x29A
+#define METATILE_SeviiIslands45_RocketWarehouseDoor_Locked    0x30B
+#define METATILE_SeviiIslands45_RocketWarehouseDoor_Unlocked  0x2AF
+
+// gTileset_SeviiIslands5
+#define METATILE_SeviiIslands5_MicroWideTreeTopLeft_Grass   0x2B2
+#define METATILE_SeviiIslands5_MicroWideTreeTopLeft_Mowed   0x286
+#define METATILE_SeviiIslands5_MicroWideTreeTopRight_Grass  0x2B3
+#define METATILE_SeviiIslands5_MicroWideTreeTopRight_Mowed  0x287
+#define METATILE_SeviiIslands5_Micro_Grass                  0x28C
+#define METATILE_SeviiIslands5_Micro_Mowed                  0x28B
+
+// gTileset_SeviiIslands6
+#define METATILE_SeviiIslands6_DO_NOT_DELETE                 0x287
+#define METATILE_SeviiIslands6_ForestTreeCorner_Left         0x2B3
+#define METATILE_SeviiIslands6_ForestTreeCorner_Left_Mowed   0x2A0
+#define METATILE_SeviiIslands6_ForestTreeCorner_Right        0x2B4
+#define METATILE_SeviiIslands6_ForestTreeCorner_Right_Mowed  0x2A2
+#define METATILE_SeviiIslands6_ForestTreeTop                 0x2B5
+#define METATILE_SeviiIslands6_ForestTreeTop_Mowed           0x28F
+#define METATILE_SeviiIslands6_Rocky                         0x2B7
+#define METATILE_SeviiIslands6_Unblock                       0x358
+
+// gTileset_SeviiIslands67
+#define METATILE_SeviiIslands67_BottomLeftCorner                      0x30E
+#define METATILE_SeviiIslands67_BottomRightCorner                     0x30F
+#define METATILE_SeviiIslands67_Door                                  0x30C
+#define METATILE_SeviiIslands67_DottedHoleDoor_Closed                 0x357
+#define METATILE_SeviiIslands67_DottedHoleDoor_Open                   0x358
+#define METATILE_SeviiIslands67_Down                                  0x308
+#define METATILE_SeviiIslands67_EmeraldMowed                          0x229
+#define METATILE_SeviiIslands67_Grass_BottomLeftCorner                0x2F6
+#define METATILE_SeviiIslands67_Grass_BottomRightCorner               0x2F7
+#define METATILE_SeviiIslands67_Grass_Down                            0x2D7
+#define METATILE_SeviiIslands67_Grass_InnerCornerBottomLeft           0x2DB
+#define METATILE_SeviiIslands67_Grass_InnerCornerBottomRight          0x2DD
+#define METATILE_SeviiIslands67_Grass_InnerCornerTopLeft              0x2DC
+#define METATILE_SeviiIslands67_Grass_InnerCornerTopRight             0x2CF
+#define METATILE_SeviiIslands67_Grass_InnerCornersTopRightBottomLeft  0x2F5
+#define METATILE_SeviiIslands67_Grass_Left                            0x2DE
+#define METATILE_SeviiIslands67_Grass_Plain                           0x2CE
+#define METATILE_SeviiIslands67_Grass_Right                           0x2DF
+#define METATILE_SeviiIslands67_Grass_RightInnerCornerTopLeft         0x33D
+#define METATILE_SeviiIslands67_Grass_TopLeftCorner                   0x2E6
+#define METATILE_SeviiIslands67_Grass_TopRightCorner                  0x2E7
+#define METATILE_SeviiIslands67_Grass_Up                              0x2D6
+#define METATILE_SeviiIslands67_InnerCornerBottomLeft                 0x303
+#define METATILE_SeviiIslands67_InnerCornerBottomRight                0x302
+#define METATILE_SeviiIslands67_InnerCornerTopLeft                    0x30B
+#define METATILE_SeviiIslands67_InnerCornerTopRight                   0x313
+#define METATILE_SeviiIslands67_InnerCornersTopRightBottomLeft        0x359
+#define METATILE_SeviiIslands67_Left                                  0x306
+#define METATILE_SeviiIslands67_LongGrass_Bottom                      0x23B
+#define METATILE_SeviiIslands67_LongGrass_Top                         0x233
+#define METATILE_SeviiIslands67_Plain                                 0x33A
+#define METATILE_SeviiIslands67_Right                                 0x307
+#define METATILE_SeviiIslands67_RightInnerCornerTopLeft               0x390
+#define METATILE_SeviiIslands67_TopLeftCorner                         0x300
+#define METATILE_SeviiIslands67_TopRightCorner                        0x301
+#define METATILE_SeviiIslands67_Up                                    0x332
+
 // Other
 #define METATILE_RSMossdeepGym_RedArrow_Down   0x205
 #define METATILE_RSMossdeepGym_RedArrow_Left   0x20C
